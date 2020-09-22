@@ -921,7 +921,7 @@
 <td><em><a title="Ureaplasma urealyticum" href="https://en.wikipedia.org/wiki/Ureaplasma_urealyticum">Ureaplasma urealyticum</a></em>&nbsp;infection</td>
 </tr>
 <tr>
-<td><em><a title="Coccidioides immitis" href="https://en.wikipedia.org/wiki/Coccidioides_immitis">Coccidioides immitis</a></em>&nbsp;or&nbsp;<em><a title="Coccidioides posadasii" href="https://en.wikipedia.org/wiki/Coccidioides_posadasii">Coccidioides posadasii</a></em>.<sup id="cite_ref-Baron_1-0" class="reference"><a href="https://en.wikipedia.org/wiki/List_of_infectious_diseases#cite_note-Baron-1">[1]</a></sup></td>
+<td><em><a title="Coccidioides immitis" href="https://en.wikipedia.org/wiki/Coccidioides_immitis">Coccidioides immitis</a></em>&nbsp;or&nbsp;<em><a title="Coccidioides posadasii" href="https://en.wikipedia.org/wiki/Coccidioides_posadasii">Coccidioides posadasii</a></em>.</td>
 <td><a class="mw-redirect" title="Valley fever" href="https://en.wikipedia.org/wiki/Valley_fever">Valley fever</a></td>
 </tr>
 <tr>
